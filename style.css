@@ -37,3 +37,206 @@ header button {
     letter-spacing: 0%;
     text-align: center;
 }
+
+/* Banner 1 */
+.banner-1-bg {
+    width: 100%;
+    height: 652px;
+    background-image: url("assets/Hero-bg.png");
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 74px;
+}
+.banner-1-bg img {
+    margin-top: 26px;
+    margin-bottom: 43px;
+}
+.banner-1-bg h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    letter-spacing: 0%;
+    text-align: center;
+    max-width: 1000px;
+}
+.banner-1-bg p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    max-width: 1000px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+.banner-1-bg button {
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 208px;
+    height: 66px;
+    background-color: rgb(13, 19, 33);
+    cursor: pointer;
+}
+
+/* Banner 2 */
+.banner-2 {
+    display: block;
+    align-items: center;
+    margin-bottom: 88px;
+}
+.banner-2-bg {
+    /* display: flex; */
+    width: 1140px;
+    height: 1395px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+.banner-2 h1 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 80px;
+    margin-bottom: 24px;
+}
+.banner-2 p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 48px;
+    align-items: center;
+    max-width: 852px;
+}
+.banner-2-card-top-bottom {
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    width: 946px;
+    height: 336px;
+    display: flex;
+}
+.banner-2-card-middle {
+    border-radius: 16px;
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    width: 946px;
+    height: 336px;
+    display: flex;
+}
+.banner-2 h2 {
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 48px;
+    margin-left: 48px;
+}
+.banner-2-card-middle p , .banner-2-card-top-bottom p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 16px;
+    margin-left: 48px;
+}
+.banner-2 button {
+    width: 150px;
+    height: 48px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 32px;
+    margin-left: 48px;
+    background-color: white;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    cursor: pointer;    
+}
+
+/* Banner 3 */
+.banner-3 {
+    display: block;
+}
+.banner-3 h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.banner-3 p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 852px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+}
+.banner-3-vidbox {
+    text-align: center;
+    align-items: center;
+    margin-bottom: 180px;
+}
+
+/* Banner 4 */
+.banner-4 {
+    display: block;
+}
+.banner-4 h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.banner-4 p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 852px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+}
+.banner-4-tilebox {
+    width: 1140px;
+    height: 300px;
+}
