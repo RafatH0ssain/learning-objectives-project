@@ -1,0 +1,39 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* Header CSS */
+header {
+    height: 131px;
+    display: flex;
+}
+header h1 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+header button {
+    float: left;
+    margin-top: 38px;
+    margin-right: 166px;
+    height: 58px;
+    width: 228px;
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+}
