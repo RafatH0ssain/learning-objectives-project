@@ -239,4 +239,63 @@ header button {
 .banner-4-tilebox {
     width: 1140px;
     height: 300px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 110px;
+}
+.banner-4-tilebox img {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.banner-4-tilebox h4{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin: 24px 0px 8px 40px;
+}
+.banner-4-tilebox p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 284px;
+    margin: 0px 0px 24px 40px;
+}
+.banner-4-tilebox a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+    margin-left: 40px;
+}
+.banner-4-tile-1 {
+    width: 364px;
+    height: 300px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    margin-right: 30px;
+}
+.banner-4-tile-2 {
+    width: 364px;
+    height: 300px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    margin-right: 30px;
+}
+.banner-4-tile-3 {
+    width: 364px;
+    height: 300px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
 }
