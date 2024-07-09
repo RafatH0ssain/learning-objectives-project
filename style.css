@@ -365,6 +365,7 @@ footer {
     height: 57px;
     border-radius: 8px;
     background: rgb(255, 255, 255);
+    cursor: pointer;
 }
 .bottom-line {
     width: 100%;
