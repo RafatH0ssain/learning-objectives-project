@@ -1,39 +1,31 @@
-# Learning Objectives Project
+# Developer Journey Documentation
 
-This project is designed to track and visualize learning objectives.
+This web project serves as a personal documentation of my journey into the world of web development. It showcases my learning path, targets, and inspirations, with interactive elements that allow visitors to learn more about my progress and connect with me.
 
 ## Features
 
-- **Track Learning Progress**: Keep track of learning objectives and their completion status.
-- **Visual Feedback**: View progress with visual charts and indicators.
-- **Interactive Interface**: Easy-to-use UI to update and check learning objectives.
+- **Download Resume**: Visitors can download my resume in PDF format.
+- **Personalized Journey**: Highlights my aspirations to become a developer, showcasing my goals and vision for the future.
+- **Inspiration**: Features content from Programming Hero, a channel that has helped me on my learning path.
+- **Learning Targets**: Details my current learning objectives in web development (HTML, CSS).
+- **Suggestions Box**: Allows visitors to send suggestions or feedback that may help in my journey.
+- **Social Links**: Includes links to my social media profiles like Facebook, GitHub, and LinkedIn.
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS
+- **HTML5**: The basic structure of the website.
+- **CSS3**: Used for styling the layout and design.
+- **JavaScript**: For interactive elements such as the download resume button and opening external links.
+- **YouTube Embed**: To display my favorite tutorial video.
 
-## Installation
+## How to Run Locally
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/RafatH0ssain/learning-objectives-project.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd learning-objectives-project
-    ```
-
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-4. Run the application:
-    ```bash
-    npm start
-    ```
-
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/RafatH0ssain/Developer-Journey-Documentation.git
+   ```
+ 2. Open the index.html file in any modern browser to view the project locally.
+    
 ## Contact
 
-Reach me at [rafat.click.hossain@gmail.com](mailto:rafat.click.hossain@gmail.com)..
+Reach me at [rafat.click.hossain@gmail.com](mailto:rafat.click.hossain@gmail.com).
